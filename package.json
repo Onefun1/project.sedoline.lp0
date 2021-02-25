@@ -1,0 +1,26 @@
+{
+  "name": "project.sedoline.lp0",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onefun1/project.sedoline.lp0.git"
+  },
+  "keywords": [
+    "LP"
+  ],
+  "author": "Maksymenko.M.A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onefun1/project.sedoline.lp0/issues"
+  },
+  "homepage": "https://github.com/Onefun1/project.sedoline.lp0#readme",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
